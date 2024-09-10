@@ -1,2 +1,2 @@
-# Cl-nica-Veterinaria
+# Tienda-veterinaria
 gestión de clínica veterinaria 
